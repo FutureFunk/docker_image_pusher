@@ -5,3 +5,4 @@ ghcr.io/immich-app/immich-machine-learning:release
 ghcr.io/toeverything/affine-graphql:stable
 jellyfin/jellyfin
 hotio/radarr
+linuxserver/jackett
