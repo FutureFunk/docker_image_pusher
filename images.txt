@@ -6,3 +6,4 @@ ghcr.io/toeverything/affine-graphql:stable
 jellyfin/jellyfin
 hotio/radarr
 linuxserver/jackett
+linuxserver/qbittorrent
