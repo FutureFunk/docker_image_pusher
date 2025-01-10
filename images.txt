@@ -7,3 +7,4 @@ jellyfin/jellyfin
 hotio/radarr
 linuxserver/jackett
 linuxserver/qbittorrent
+xhofe/alist
