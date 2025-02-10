@@ -8,3 +8,4 @@ hotio/radarr
 linuxserver/jackett
 linuxserver/qbittorrent
 xhofe/alist
+rabbitmq:3.31-management
