@@ -8,4 +8,6 @@
 #linuxserver/jackett
 #linuxserver/qbittorrent
 #xhofe/alist
-rabbitmq:4.0-management
+#rabbitmq:4.0-management
+wurstmeister/zookeeper
+wurstmeister/kafka
